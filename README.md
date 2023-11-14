@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @caroltochia
 - 👀 I’m interested in food, games and code
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning Python and JS 
 - 💞️ I’m looking to collaborate on what i can contribute
-- 📫 How to reach me ...
+- 📫 Follow me on [LinkedIn](https://www.linkedin.com/in/ana-carolina-torchia/)
 
 <!---
 caroltochia/caroltochia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
