@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on what i can contribute
 - 📫 Follow me on [LinkedIn](https://www.linkedin.com/in/ana-carolina-torchia/)
 
- ![lol morg (1)](https://github.com/caroltorchia/caroltorchia/assets/95150688/16ef0091-adb2-4a46-8a13-3ac89325c49f) 
+![soraka-soraka-league-of-legends-summoner-s-rift-league-of-legends-wallpaper-preview](https://github.com/caroltorchia/caroltorchia/assets/95150688/e157b1ff-b42c-4e0b-a5d7-7973482b1032)
  ![legends never die](https://github.com/caroltorchia/caroltorchia/assets/95150688/e127c2c7-6814-49f9-bb3d-014322253407)
 
 
