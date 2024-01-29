@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caroltochia
-- 👀 I’m interested in food, games and code
+- 👀 I’m interested in games and code
 - 🌱 I’m currently learning Python and JS 
 - 💞️ I’m looking to collaborate on what i can contribute
 - 📫 Follow me on [LinkedIn](https://www.linkedin.com/in/ana-carolina-torchia/)
