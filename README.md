@@ -3,7 +3,7 @@
 
 ### 🔭 About me
 - 💻 I am a Full Stack Developer with a drive for creativity and innovation 
-- 🤖 I'm currently studying Data Science and Machine Learning, Looking up to use AI in some projects
+- 🤖 I'm currently studying at Cesar School Systems Analysis and Development and I'm participating in a bootcamp about Python and Django.
 - 👾 When I'm not coding, I'm probably enjoying life with my family, playing some games or my studying for competitive exams
 <hr>
 <div> 
